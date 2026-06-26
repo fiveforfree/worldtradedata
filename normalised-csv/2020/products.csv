@@ -1,0 +1,98 @@
+product_code,mtn_categories,id
+E,Cereals and food preparations,1
+Z,Unspecified products,2
+M02,"Petroleum oils, other than crude",3
+K,Fish and fish products,4
+L03,Non-metallic mineral products,5
+UNSPECIFIED,Unspecified products,6
+P09,Other textile products,7
+T06,Domestic appliances,8
+U01,Motor vehicles,9
+Z99,Unspecified products,10
+L06,Iron and steel,11
+O,"Wood, paper, furniture",12
+J,Other agricultural products,13
+R01,Rubber and rubber products,14
+R02,Leather and leather products,15
+O01,Wood and wood products,16
+R,"Rubber, leather and footwear",17
+S03,Power generating machinery,18
+O03,Furniture,19
+L02,Other minerals,20
+F,"Oilseeds, fats and oils",21
+L01,"Mineral fuels, other than petroleum oils",22
+J01,Plants and vegetal material,23
+U03,Ships and floating structures,24
+N09,Other chemical products,25
+L05,Non-ferrous metals,26
+H02,Alcohols,27
+L,Minerals and metals,28
+C,Fruits and vegetables,29
+N,Chemicals,30
+S01,General industrial machinery,31
+S04,Computers and office machinery,32
+S02,Machinery for specialized industries,33
+M,Petroleum,34
+D01,"Coffee, tea, mate",35
+E02,Food preparations,36
+V09,Other manufactures,37
+V02,Measuring instruments,38
+C01,Fruits,39
+V,Other manufactures,40
+C02,Vegetables,41
+O02,"Pulp, paper and printed matter",42
+F03,Vegetable fats and oils,43
+T01,Electrical machinery,44
+T05,Audio-visual devices,45
+D,"Coffee, tea, cocoa and spices",46
+P01,"Natural fibre, yarn and fabrics",47
+E01,Cereals,48
+S,"Mechanical, office and computing machinery",49
+H,Beverages and tobacco,50
+L07,Metal products,51
+N01,Inorganic chemicals,52
+J02,Chemicals from agricultural origin,53
+Q,Clothing,54
+N04,Plastics,55
+Q00,Clothing,56
+D02,Cocoa,57
+T04,Telecommunication equipment,58
+C03,Fruit and vegetable preparations,59
+R03,Footwear,60
+U,Transport equipment,61
+N05,Fertilisers,62
+H01,"Non-alcoholic beverages, including juices",63
+J04,Other products of animal origin,64
+P,Textiles,65
+N03,Pharmaceuticals,66
+L04,Jewellery and related products,67
+T,Electrical machinery and electronic equipment,68
+K00,Fish and fish products,69
+V03,Medical equipment,70
+P02,"Man-made fibre, yarn and fabrics",71
+I,"Cotton, silk and wool",72
+V01,Optical and photographic products,73
+T03,Semiconductors,74
+V04,Clocks and watches,75
+A01,"Live animals, excluding fish",76
+U05,"Bicycles, motorcycles and other transport equipment",77
+B00,Dairy products,78
+U02,Railway vehicles,79
+V06,Recreational and sports products,80
+F02,Animal fats and oils,81
+G00,Sugars and sugar confectionery,82
+H03,Tobacco,83
+A02,Meat,84
+I01,Cotton,85
+U04,Aircraft,86
+G,Sugars and sugar confectionery,87
+T02,Electronic components,88
+A,Live animals and meat,89
+V05,Arms and ammunition,90
+I02,Silk and wool,91
+B,Dairy products,92
+F01,Oilseeds,93
+M01,Crude oils,94
+J03,Residues of food processing industry,95
+N02,Organic chemicals,96
+D03,Spices,97
